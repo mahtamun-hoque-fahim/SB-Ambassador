@@ -101,20 +101,22 @@ form p{
     line-height: 70px;
 }
 form img.logo2{
-    width: 200px;
+    width: 170px;
     height: 200px;
     margin-left: 150px;
-    border:2px solid #3586ff;
+    border:5px solid #3586ff;
     border-radius: 50%;
-    background: #3586ff;
+    background: none;
 }
 form input.normal{
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     padding: 10px;
     background:#ddd;
-    border-radius: 10px;
+    border:none;
+    border-radius: 30px;
     width: 100%;
+    padding-left: 20px;
 }
 form input.radio{
     cursor: pointer;
@@ -139,7 +141,7 @@ form button.submit{
     margin-top: 25px;
     padding-top: 15px;
     padding-bottom: 15px;
-    border-radius: 20px;
+    border-radius: 30px;
     background: #3586ff;
     border: none;
     transition: 2s;
@@ -149,7 +151,14 @@ form button.submit{
     color: #fff;
 }
 form button.submit:hover{
-    background: #237204;
+    background: #7bff00;
     color: #000;
     font-weight: bold;
+}
+form p.send{
+    color: rgb(233, 115, 115);
+    font-size: 10px;
+    line-height: normal;
+    margin-top: 10px;
+    width: 100%;
 }
