@@ -1,7 +1,15 @@
-# Sulphuric-Ambassedor Recruitment <br >
+![Sulphuric Bench](https://github.com/sulphuric-bench/sb-ambassador/blob/main/SB.png?raw=true)
+# Sulphuric Ambassador Recruitmentt <br >
 This is a simple form used for sulphuric bench ambassedor recuritment which is under maintainence. <br >
 Please read the [guidlines](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) before you contribute.
 <br >
 
-# Sulphuric Bench
-## Execl your learnig
+
+
+
+
+
+
+<img src="SB.png" width='100px'>
+Sulphuric Bench <br>
+Execl your learnig
